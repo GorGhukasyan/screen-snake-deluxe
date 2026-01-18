@@ -9,3 +9,6 @@ Snake Deluxe is a browser-based implementation of the well-known Snake game.
 The player controls a snake that grows in length as it eats food. The game ends if the snake hits the wall or collides with itself.
 
 No installation is required — the game runs directly in the browser.
+
+If you want to play the game, click the link below:
+🔗 https://screen-snake-deluxe.vercel.app/
